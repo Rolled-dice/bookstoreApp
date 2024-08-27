@@ -25,7 +25,7 @@ const Banner = () => {
             className="input input-bordered w-full  mt-5 md:mt-12"
           />
 
-          <button className="btn btn-secondary mt-5">Secondary</button>
+          <button className="btn btn-secondary mt-5"> Get Started</button>
         </div>
         <div className=" order-1 md:order-2w-full md:w-1/2">
           <img src={banner} className="   md:pt-20 w-92 h-92" alt="" />
